@@ -327,11 +327,11 @@ section{
   }
   
   .css:after{
-    width: 80%;
+    width: 60%;
   }
   
   .js:after{
-    width: 50%;
+    width: 30%;
   }
   
   .py:after{
@@ -347,18 +347,18 @@ section{
   }
 
   .php::after{
-    width: 60%;
+    width: 20%;
   }
 
   .cpp::after{
-    width: 70%;
+    width: 60%;
   }
 
   .mysql::after{
-    width: 50%;
+    width: 10%;
   }
   .bash::after{
-    width: 30%;
+    width: 10%;
   }
 
 
